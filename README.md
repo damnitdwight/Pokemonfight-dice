@@ -1,0 +1,2 @@
+# Pokemonfight-dice
+ dice game
